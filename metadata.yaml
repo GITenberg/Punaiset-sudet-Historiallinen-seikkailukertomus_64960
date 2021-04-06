@@ -12,12 +12,17 @@ contributor:
     gutenberg_agent_id: '31724'
     url: http://www.gutenberg.org/2009/agents/31724
     wikipedia: https://fi.wikipedia.org/wiki/Helmi_Krohn
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Cederborg, Carl August
     gutenberg_agent_id: '53116'
     url: http://www.gutenberg.org/2009/agents/53116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64960#Punaiset-sudet-Historiallinen-seikkailukertomus
 gutenberg_issued: '2021-03-30'
 gutenberg_type: Text
 identifiers:
