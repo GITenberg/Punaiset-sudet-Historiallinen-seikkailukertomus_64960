@@ -1,0 +1,34 @@
+_repo: Punaiset-sudet-Historiallinen-seikkailukertomus_64960
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Krohn, Helmi
+    aliases:
+    - Setälä, Helmi
+    - Setala, Helmi
+    - Helmi Setälä
+    birthdate: 1871
+    deathdate: 1967
+    gutenberg_agent_id: '31724'
+    url: http://www.gutenberg.org/2009/agents/31724
+    wikipedia: https://fi.wikipedia.org/wiki/Helmi_Krohn
+creator:
+  author:
+    agent_name: Cederborg, Carl August
+    gutenberg_agent_id: '53116'
+    url: http://www.gutenberg.org/2009/agents/53116
+description: ''
+gutenberg_issued: '2021-03-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64960'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Punaiset sudet
+
+  Historiallinen seikkailukertomus'
+url: http://www.gutenberg.org/ebooks/64960
